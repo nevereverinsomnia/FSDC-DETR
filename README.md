@@ -1,5 +1,5 @@
 <h2 align="center">
-  Real-Time Object Detection Meets DINOv3
+ FSDC--DETR: A Frequency--Spatial Domain Collaborative DETR for Small-Object Detection
 </h2>
 
 The code will be released after the paper is accepted.
